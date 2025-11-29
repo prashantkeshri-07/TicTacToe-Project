@@ -4,7 +4,7 @@
 ---
 
 ## 1. Title  
-**Tic Tac Toe – Console Based Game in C (Two Player – Pass n Play)**
+**Tic Tac Toe – Console Based Game in C (Two Player –  Pass n Play)**
 
 ---
 
